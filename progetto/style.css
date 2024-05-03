@@ -1,0 +1,59 @@
+/* Your styles here */
+#body-1 {
+    text-align: center;
+   margin: 0%;
+   
+    font-family: "Radio Canada Big", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+
+    background-image: url(assets/banner.jpg);
+    background-position: top;
+    background-size: 670px;
+    background-repeat: no-repeat;
+  }
+
+.img-1 {
+background-color: black; 
+}
+
+.corso  {
+
+    font-size: 40px;
+    color: blue;
+}
+
+.blocco-1 {
+font-size: large;
+}
+
+.bottone {
+    height: 80px;
+    width: 160px; 
+    border-radius: 4px;
+    border-color: orangered;
+    background-color: orangered;
+ width: 120px;
+ height: 30px;
+ margin: 30px;
+ color: white;
+}
+
+.blocco-2 {
+height: 90px;
+ border: none;
+ 
+}
+
+.img-2 {
+    border-radius: 50% 50% 50% 50% / 50% 50% 50% 50% ;
+    width: 400;
+}
+
+.blocco-3 {
+    font-size: large;
+    color: blue;
+}
+
+   
