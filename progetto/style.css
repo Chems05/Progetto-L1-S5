@@ -47,13 +47,32 @@ height: 90px;
 }
 
 .img-2 {
-    border-radius: 50% 50% 50% 50% / 50% 50% 50% 50% ;
-    width: 400;
+    height: ;
+    border-radius: ;
+   
 }
 
 .blocco-3 {
-    font-size: large;
+    font-size: larger;
     color: blue;
 }
 
+.blocco-4 {
+    font-size: larger;
+    color: blue;
+}
+
+.blocco-5 {
+    font-size: larger;
+    color: blue;
+}
+
+.blocco-6 {
+    font-size: larger;
+    color: blue;
+}
+
+.block-7 {
+background-color: orangered ;
+}
    
