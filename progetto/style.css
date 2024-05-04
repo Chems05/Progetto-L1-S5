@@ -1,18 +1,19 @@
 /* Your styles here */
 #body-1 {
+    width: 400px;
     text-align: center;
 
-    font-family: "Radio Canada Big", sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-optical-sizing: auto;
-    font-weight: weight;
-    font-style: normal;
-
+    font-weight: weight ; 
     background-image: url(assets/banner.jpg);
-    background-position: top ;
-    background-size: 670px;
+    background-size: 700px ;
     background-repeat: no-repeat;
+    background margin: 0px;
+}
 
-  }
+    
+
 
 .img-1 {
 background-color: black;
@@ -22,7 +23,7 @@ background-color: black;
 .corso  {
 
     font-size: 40px;
-    color: blue;
+    color: rgb(7, 173, 214);
 }
 
 .blocco-1 {
@@ -59,7 +60,7 @@ height: 90px;
 .blocco-6
  {
     font-size: larger;
-    color: blue;
+    color: rgb(7, 173, 214);
 }
 
 .blocco-7 {
@@ -72,6 +73,7 @@ height: 90px;
 
 .garantisce {
     font-size: 30px;
+    
 }
 
 .Mario {
@@ -83,22 +85,22 @@ height: 90px;
 }
 
 .blocco-8 {
-    background-color: darkturquoise ;
+    background-color:rgb(7, 173, 214) ;
     color: aliceblue;
     padding: 35px;
 }
 
 .il-tuo-pc {
 font-size: larger;
-color: blue;
+color: rgb(7, 173, 214);
 }
    
 .impara-ora {
     font-size: larger;
-    color: blue;
+    color: rgb(7, 173, 214);
 }
 
 .lavora {
     font-size: larger;
-    color: blue;
+    color: rgb(7, 173, 214);
 }
