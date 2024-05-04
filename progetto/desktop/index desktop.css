@@ -1,0 +1,79 @@
+.body {
+  margin: auto;
+  
+  font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight ; 
+}
+
+.background {
+  background-color: black;
+  padding: 25px;
+}
+
+.logo {
+  width: 200px;
+}
+
+.background-1 {
+background-image: url(assets/banner.jpg);
+height: 700px;
+}
+
+.paragrafo-1 {
+padding: 270px;
+    text-align: center;
+}
+
+.corso {
+
+font-size: xx-large;
+padding: auto;
+color: rgb(0, 169, 221);
+}
+
+.paragrafo-2 {
+padding: 50px;
+
+}
+
+.button {
+    height: 80px;
+    width: 160px; 
+    border-radius: 4px;
+    border-color: orangered;
+    background-color: orangered;
+ width: 150px;
+ height: 40px;
+ margin: 30px;
+ color: white;
+    
+}
+
+.notebook {
+    border-radius: 50% 50% 50% 50% / 50% 50% 50% 50%;
+    height: 370px;
+}
+
+.box {
+    display: flex;
+    justify-content: space-evenly; 
+    
+}
+
+.notebook  {
+    
+
+}
+
+.paragrafo-3 {
+
+    }
+
+h2,
+h2,
+h2,
+h2 {
+    color: rgb(0, 169, 221);
+    font-size: 
+}

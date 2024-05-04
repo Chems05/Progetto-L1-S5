@@ -1,19 +1,19 @@
 /* Your styles here */
 #body-1 {
-    width: 400px;
+    width: 450px;
     text-align: center;
 
     font-family: "Montserrat", sans-serif;
     font-optical-sizing: auto;
     font-weight: weight ; 
-    background-image: url(assets/banner.jpg);
-    background-size: 700px ;
-    background-repeat: no-repeat;
-    background margin: 0px;
-}
+ }
 
     
+.background {
 
+    background-image: url( assets/banner.jpg);
+    background-size: cover;
+}
 
 .img-1 {
 background-color: black;
