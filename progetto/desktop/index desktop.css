@@ -27,12 +27,13 @@ padding: 270px;
 .corso {
 
 font-size: 40px;
-padding: auto;
+padding-bottom: 40px;
+padding-top: 200px;
 color: rgb(0, 169, 221);
 }
 
 .paragrafo-2 {
-padding: 50px;
+
 font-size: large;
 
 }
@@ -58,7 +59,7 @@ font-size: large;
 .box {
     display: flex;
    justify-content: space-evenly;
-margin-top: 50px;
+padding: 80px;
 }
 
 .computer  {
@@ -107,14 +108,19 @@ font-size: 18px;
    }
 
    .box {
-display: flex;
 
 }
 
-   .img1 {
-       width: 400px;
-       padding-bottom: 100px;
-       padding-left: 100px;
+   .img1-2 {
+       width: 55vh;
+
+       padding-bottom: 20px;
+   }
+
+   .img3 {
+       width: 55vh;
+height: 300px;
+padding-bottom: 20px;
    }
 
    h1 {
@@ -122,4 +128,30 @@ display: flex;
     color: rgb(0, 169, 221);
     padding-bottom: 200px ;
    }
+
+   .paragrafo-1,
+   .paragrafo-2,
+   .paragrafo-3 {
+
+text-align: center;
+    padding: 0%;
+    font-size: medium;
+   }
+
+   .card1 {
+    border: 2px;
+    border-style: groove;
+    
+   }
+
+   .card2 {
+    border: 2px;
+ border-style: groove;
+   }
+
+   .Card3 {
+    border: 2px;
+    border-style: groove;
+   }
+ 
 
